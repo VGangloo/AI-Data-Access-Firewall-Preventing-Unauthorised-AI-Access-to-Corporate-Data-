@@ -1,0 +1,16 @@
+{
+    "employee1": {
+        "password": "scrypt:32768:8:1$hBXludobEwhxcXVa$577fd5af8a2ba90c7885e214b54fdd7593111f1aedebd6271a62089ad42ea7cc3639119b4d4ff75386c288300b39e237d5f23e66369ef8f6b4daa8a0c222f24c",
+        "role": "Employee"
+    },
+
+    "manager1": {
+        "password": "scrypt:32768:8:1$EvbhlQW0BTDoH14X$82129407169c5338721b959ee98890c796d79b294e35848b9bef97263c9084a8a7d892fa6d5447264386661e703bf65c21c88be0bba6ce8cff984a41a10a1b23",
+        "role": "Manager"
+    },
+
+    "admin1": {
+        "password": "scrypt:32768:8:1$dnccxxfRjqp1RQfN$132432d1fcd4a1de449c65b31b01e347642d89d2f7b90c2ef44cc7ee59d1c49f99d97e4aedfac45d3c7f6b31a3b992e6dda8c044570ef29d799698d2384c662d",
+        "role": "Admin"
+    }
+}

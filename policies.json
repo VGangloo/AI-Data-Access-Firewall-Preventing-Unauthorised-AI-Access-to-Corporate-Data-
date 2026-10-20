@@ -1,0 +1,19 @@
+{
+    "Employee": [
+        "Public",
+        "Internal"
+    ],
+
+    "Manager": [
+        "Public",
+        "Internal",
+        "Confidential"
+    ],
+
+    "Admin": [
+        "Public",
+        "Internal",
+        "Confidential",
+        "Restricted"
+    ]
+}
